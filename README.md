@@ -1,2 +1,2 @@
 # AronDeng.github.io
-我的第一篇hexo博客
+我的第一篇博客
